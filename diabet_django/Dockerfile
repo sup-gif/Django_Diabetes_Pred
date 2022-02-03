@@ -13,5 +13,5 @@ ADD . /app
 # Step 5: Set working directory to previously added app directory
 WORKDIR /app
 
-# Step 6: Run Flask
+# Step 6: Run App
 CMD python manage.py
